@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mapa-brecha-digital/static/css/main.3516f6eb.css",
-    "main.js": "/mapa-brecha-digital/static/js/main.ada7906e.js",
+    "main.js": "/mapa-brecha-digital/static/js/main.a45c7a52.js",
     "index.html": "/mapa-brecha-digital/index.html",
     "main.3516f6eb.css.map": "/mapa-brecha-digital/static/css/main.3516f6eb.css.map",
-    "main.ada7906e.js.map": "/mapa-brecha-digital/static/js/main.ada7906e.js.map"
+    "main.a45c7a52.js.map": "/mapa-brecha-digital/static/js/main.a45c7a52.js.map"
   },
   "entrypoints": [
     "static/css/main.3516f6eb.css",
-    "static/js/main.ada7906e.js"
+    "static/js/main.a45c7a52.js"
   ]
 }
