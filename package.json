@@ -1,0 +1,56 @@
+{
+  "name": "tab-atencion_lluvias_hidalgo",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://cartodynamics.github.io/segob_dgpc",
+  "dependencies": {
+    "@aesqe/mapboxgl-minimap": "^1.0.0",
+    "@mapbox-controls/ruler": "^3.0.0",
+    "@mapbox/mapbox-gl-draw": "^1.5.0",
+    "@maptiler/sdk": "^3.4.1",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.2.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@turf/turf": "^7.2.0",
+    "copyfiles": "^2.4.1",
+    "mapbox-gl-controls": "^2.3.5",
+    "maplibre-gl": "^4.7.1",
+    "pmtiles": "^3.0.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^4.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "postbuild": "copyfiles -u 1 public/data/**/* build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/geojson": "^7946.0.16",
+    "@types/mapbox__mapbox-gl-draw": "^1.4.9",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "ajv": "^8.12.0",
+    "ajv-keywords": "^5.1.0",
+    "gh-pages": "^6.3.0",
+    "typescript": "4.9.5"
+  }
+}
