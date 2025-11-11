@@ -1,0 +1,21 @@
+tema,indicador,variable,categoria,total,porcentaje,entidad
+Internet,Sin acceso a internet (P7_1=2),Rango edad,12-18 años,61743,7,CDMX
+Internet,Sin acceso a internet (P7_1=2),Rango edad,19-26 años,15638,1.4,CDMX
+Internet,Sin acceso a internet (P7_1=2),Rango edad,27-49 años,110800,3.5,CDMX
+Internet,Sin acceso a internet (P7_1=2),Rango edad,50-65 años,257912,13,CDMX
+Internet,Sin acceso a internet (P7_1=2),Rango edad,6-11 años,109879,17.5,CDMX
+Internet,Sin acceso a internet (P7_1=2),Rango edad,66 o más años,442070,40,CDMX
+Internet,Sin acceso a internet (P7_1=2),Sexo,Hombres,383458,9.1,CDMX
+Internet,Sin acceso a internet (P7_1=2),Sexo,Mujeres,614584,13.2,CDMX
+Internet,Sin acceso a internet (P7_1=2),Tipo de población,Rural,4777,6.5,CDMX
+Internet,Sin acceso a internet (P7_1=2),Tipo de población,Urbana,993265,11.3,CDMX
+Telefonía,Sin telefonía móvil (P8_3=2),Rango edad,12-18 años,76336,8.6,CDMX
+Telefonía,Sin telefonía móvil (P8_3=2),Rango edad,19-26 años,14005,1.2,CDMX
+Telefonía,Sin telefonía móvil (P8_3=2),Rango edad,27-49 años,96111,3,CDMX
+Telefonía,Sin telefonía móvil (P8_3=2),Rango edad,50-65 años,151922,7.7,CDMX
+Telefonía,Sin telefonía móvil (P8_3=2),Rango edad,6-11 años,181893,29,CDMX
+Telefonía,Sin telefonía móvil (P8_3=2),Rango edad,66 o más años,304567,27.5,CDMX
+Telefonía,Sin telefonía móvil (P8_3=2),Sexo,Hombres,369650,8.7,CDMX
+Telefonía,Sin telefonía móvil (P8_3=2),Sexo,Mujeres,455184,9.8,CDMX
+Telefonía,Sin telefonía móvil (P8_3=2),Tipo de población,Rural,12473,17,CDMX
+Telefonía,Sin telefonía móvil (P8_3=2),Tipo de población,Urbana,812361,9.2,CDMX

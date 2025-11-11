@@ -1,0 +1,11 @@
+variable,categoria,total,porcentaje,indicador,entidad
+Sexo,Hombres,383458,9.1,Sin acceso a internet (P7_1=2),CDMX
+Sexo,Mujeres,614584,13.2,Sin acceso a internet (P7_1=2),CDMX
+Rango edad,6-11 años,109879,17.5,Sin acceso a internet (P7_1=2),CDMX
+Rango edad,12-18 años,61743,7,Sin acceso a internet (P7_1=2),CDMX
+Rango edad,19-26 años,15638,1.4,Sin acceso a internet (P7_1=2),CDMX
+Rango edad,27-49 años,110800,3.5,Sin acceso a internet (P7_1=2),CDMX
+Rango edad,50-65 años,257912,13,Sin acceso a internet (P7_1=2),CDMX
+Rango edad,66 o más años,442070,40,Sin acceso a internet (P7_1=2),CDMX
+Tipo de población,Rural,4777,6.5,Sin acceso a internet (P7_1=2),CDMX
+Tipo de población,Urbana,993265,11.3,Sin acceso a internet (P7_1=2),CDMX

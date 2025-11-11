@@ -1,0 +1,11 @@
+variable,categoria,total,porcentaje,indicador,entidad
+Sexo,Hombres,369650,8.7,Sin telefonía móvil (P8_3=2),CDMX
+Sexo,Mujeres,455184,9.8,Sin telefonía móvil (P8_3=2),CDMX
+Rango edad,6-11 años,181893,29,Sin telefonía móvil (P8_3=2),CDMX
+Rango edad,12-18 años,76336,8.6,Sin telefonía móvil (P8_3=2),CDMX
+Rango edad,19-26 años,14005,1.2,Sin telefonía móvil (P8_3=2),CDMX
+Rango edad,27-49 años,96111,3,Sin telefonía móvil (P8_3=2),CDMX
+Rango edad,50-65 años,151922,7.7,Sin telefonía móvil (P8_3=2),CDMX
+Rango edad,66 o más años,304567,27.5,Sin telefonía móvil (P8_3=2),CDMX
+Tipo de población,Rural,12473,17,Sin telefonía móvil (P8_3=2),CDMX
+Tipo de población,Urbana,812361,9.2,Sin telefonía móvil (P8_3=2),CDMX
